@@ -1,2 +1,1 @@
-newline
 # git-project-two
